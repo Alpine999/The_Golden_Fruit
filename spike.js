@@ -1,0 +1,9 @@
+class Spike{
+    constructor()
+
+
+
+
+
+}
+
